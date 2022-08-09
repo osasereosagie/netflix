@@ -1,0 +1,106 @@
+::placeholder {
+    color: rgb(138, 133, 133);
+
+}
+
+input:focus {
+    border-bottom: 2px solid rgb(161, 105, 0) ;
+
+
+}
+
+
+input {
+    padding: 15px 15px;
+    background-color: rgb(44, 42, 42);
+    border-radius: 5px;
+    border: none;
+   color: rgb(224, 207, 207);
+   outline: none;
+   transition: all 200ms ease-out;
+
+}
+
+
+
+
+input[type='checkbox'] {
+color: black;
+background-color: grey;
+padding: 0px 0px;
+width: max-content;
+}
+#f a{
+
+    text-decoration: none;
+    font-size: small;
+    color:rgb(189, 175, 175);
+
+
+
+}
+
+
+
+
+a:visited {
+color: inherit;
+}
+
+a:active {
+color: inherit;
+}
+
+#sec a {
+text-decoration: none;
+color: white;
+}
+
+#learnmore-link {
+
+text-decoration: none;
+color: rgb(61, 61, 233);
+}
+
+#f:hover {
+    text-decoration: underline;
+}
+
+button {
+    color: white;
+    background-color: rgb(241, 20, 20);
+    border: none;
+    margin-top: 14px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-weight: bold;
+    cursor: pointer;
+
+
+}
+
+input {
+    padding-right: 60px;
+}
+
+input,button {
+    width: 280px;
+    border-radius: 4px;
+}
+
+
+button:hover {
+    opacity: 0.8;
+}
+
+ a:hover {
+    text-decoration: underline;
+}
+#show-but:active {
+cursor: pointer;
+}
+footer a {
+    color: rgb(184, 165, 165);
+    text-decoration: none;
+}
+Footer
